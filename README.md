@@ -56,15 +56,15 @@ Link to your Trello boards here:
 
 * [Overview](https://trello.com/b/HUP14eNO/overview)
 * [Discussions](https://trello.com/b/pOzgvNqA/discussions)
-* User Stories
-* Investigations
-* Implementations
+* [User Stories](https://trello.com/b/crG1h10d/user-stories)
+* [Investigations](https://trello.com/b/njSqi5Wq/investigations)
+* [Implementations](https://trello.com/b/n8mLy1RC/implementations)
 * Features
   * sub-feature (if needed)
   * ...
-* Design
+* [Design](https://trello.com/b/QGDftoNB/design)
   * component (if needed)
   * ...
-* Tasks
-* Plan
+* [Tasks](https://trello.com/b/wHTFlQsZ/kanban)
+* [Plan](https://trello.com/b/QRTCNrOR/plan)
 
