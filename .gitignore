@@ -1,0 +1,6 @@
+
+code/little_list/.vscode/
+node_modules
+code/little_list/resources/
+code/little_list/hooks/
+*.scss
